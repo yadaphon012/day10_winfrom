@@ -1,0 +1,10 @@
+C:\ศรัณ\day 10\day 10\bin\Debug\day 10.exe.config
+C:\ศรัณ\day 10\day 10\bin\Debug\day 10.exe
+C:\ศรัณ\day 10\day 10\bin\Debug\day 10.pdb
+C:\ศรัณ\day 10\day 10\obj\Debug\day 10.csproj.AssemblyReference.cache
+C:\ศรัณ\day 10\day 10\obj\Debug\day_10.Form1.resources
+C:\ศรัณ\day 10\day 10\obj\Debug\day_10.Properties.Resources.resources
+C:\ศรัณ\day 10\day 10\obj\Debug\day 10.csproj.GenerateResource.cache
+C:\ศรัณ\day 10\day 10\obj\Debug\day 10.csproj.CoreCompileInputs.cache
+C:\ศรัณ\day 10\day 10\obj\Debug\day 10.exe
+C:\ศรัณ\day 10\day 10\obj\Debug\day 10.pdb
